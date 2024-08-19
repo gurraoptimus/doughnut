@@ -8,4 +8,6 @@
 sin(A),f=sin(j),g=cos(A),h=d+2,D=1/(c*
 h*e+f*g+5),l=cos      (i),m=cos(B),n=s\
 in(B),t=c*h*g-f*       e;int x=40+30*D*
-(l*h*m-t*n),y=            12+15
+(l*h*m-t*n),y=            12+15*D*(l*h*n
++t*m),o=x+80*y,         N=8*((f*e-c*d*g
+)*m-c*d*e-f*g-l         *d*    
