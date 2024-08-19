@@ -14,4 +14,4 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
  y>0&&x>0&&80>x&&D>z[o]){z[o]=D;;;b[o]=
   ".,-~:;!*#$@"[N>0?N:0];}}/*#****!!-*/
   printf("\x1b[H");for(k=0;1761>k;k++)
-   put
+   putchar(k%
